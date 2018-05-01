@@ -1,49 +1,49 @@
 { 
 	"ServerURL" : "https://7yi3oi9x2a.execute-api.us-east-1.amazonaws.com/CDSurveyProdStage",
  	"Broken" : "false",
-	"BuildNum" : "41",
+	"BuildNum" : "42",
 	"Questions" :
 	[
 		{
-			"question": "How many days per week do Engineers spend picking their noses?",
+			"question": "What is the biggest bottle neck in DevOps?",
 			"answers" : [
-				"Eight.",
-				"It can vary signficantly from engineer to engineer.",
-				"None.   They have built machines for that.",
-				"Nobody ... err ... nose"
+				"Deployment",
+				"Testing",
+				"Coding",
+				"Requirements"
 			],
-			"correctAnswer": "1"
+			"correctAnswer": "2"
 		},
 		{
-			"question": "What is the most amusing anagram of Stephen Feloney?",
+			"question": "What percentage of software testing is still manual?",
 			"answers" : [
-				"Elf Hoe Spent Yen",
-				"Feel Those Penny",
-				"Pee Hefty Nelson",
-				"Tense Phoney Elf"
+				"10%",
+				"30%",
+				"50%",
+				"70%"
 			],
 			"correctAnswer": "4"
 
 		},
 		{
-			"question": "Fill in the blank: Shift ___",
+			"question": "How many hours per week do developers spend coding?",
 			"answers" : [
-				"Left",
-				"Right",
-				"Up",
-				"Happens"
+				"8 hours",
+				"15 hours",
+				"30 hours",
+				"45 hours"
 			],
-			"correctAnswer": "4"
+			"correctAnswer": "1"
 		},
 		{
-			"question": "What should the fourth question be?",
+			"question": "_____ Happens",
 			"answers" : [
-				"What sport would be the funniest to add a mandatory amount of alcohol to?",
-				"What would be the coolest animal to scale up to the size of a horse?",
-				"How many chickens would it take to kill an elephant?",
-				"What’s the best type of cheese?"
+				"@#$!",
+				"Testing",
+				"Shift",
+				"CA Technologies"
 			],
-			"correctAnswer": "2"
+			"correctAnswer": "3"
 		}
 	]
 }
